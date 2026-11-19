@@ -1,7 +1,8 @@
 # ⚡ ViralClip Studio
 ### Professional AI YouTube & Livestream Short-Form Video Clipping Platform
 > **Target Platforms:** YouTube Shorts & Instagram Reels (1080 × 1920, 9:16 vertical)  
-> **Editing Identity:** High-energy streamer editing inspired by top gaming creators and viral livestream highlights.
+> **Editing Identity:** High-energy streamer editing inspired by top gaming creators and viral livestream highlights.  
+> **Live Demo (GitHub Pages):** [https://chillingbing648-sketch.github.io/viralclip-studio/](https://chillingbing648-sketch.github.io/viralclip-studio/)
 
 ---
 
